@@ -35,7 +35,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  speech_to_text_field: ^0.1.0
+  speech_to_text_field: ^0.1.1
 ```
 
 Then run:
