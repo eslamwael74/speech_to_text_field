@@ -190,13 +190,14 @@ The widget supports multiple languages for speech recognition. You can specify t
 ```dart
 SpeechToTextField(
   controller: _controller,
-  localeId: 'fr_FR', // French
+  localeId: 'ar_EG', // French
 )
 ```
 
 Common locale IDs:
 - English (US): 'en_US'
 - English (UK): 'en_GB'
+- Arabic: 'ar_EG'
 - Spanish: 'es_ES'
 - French: 'fr_FR'
 - German: 'de_DE'
