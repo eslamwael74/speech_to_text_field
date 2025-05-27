@@ -15,7 +15,15 @@ A Flutter widget that provides a TextField with built-in speech-to-text function
 - ⚙️ Event callbacks for listening state changes
 - 📝 Compatible with all standard TextField functionalities
 
-![Speech to Text Field Demo](https://via.placeholder.com/300x200.png?text=SpeechToTextField+Demo)
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="300" alt="Basic Speech to Text Field">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot2.png" width="300" alt="Custom Speech to Text Field">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot2.png" width="300" alt="Custom Speech to Text Field with multiple lines, and listening">
+</p>
 
 ## Requirements
 
@@ -190,14 +198,14 @@ The widget supports multiple languages for speech recognition. You can specify t
 ```dart
 SpeechToTextField(
   controller: _controller,
-  localeId: 'ar_EG', // French
+  localeId: 'ar_EG', // Arabic (Egyptian dialect)
 )
 ```
 
 Common locale IDs:
 - English (US): 'en_US'
 - English (UK): 'en_GB'
-- Arabic: 'ar_EG'
+- Arabic (EG): 'ar_EG'
 - Spanish: 'es_ES'
 - French: 'fr_FR'
 - German: 'de_DE'
