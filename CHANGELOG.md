@@ -1,3 +1,8 @@
+## 0.1.1
+
+* Updated documentation with screenshots
+* Improved error handling
+
 ## 0.1.0
 
 * Initial release of the speech_to_text_field package
