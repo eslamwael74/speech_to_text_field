@@ -17,12 +17,10 @@ A Flutter widget that provides a TextField with built-in speech-to-text function
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/screenshot1.png" width="300" alt="Basic Speech to Text Field">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot2.png" width="300" alt="Custom Speech to Text Field">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot2.png" width="300" alt="Custom Speech to Text Field with multiple lines, and listening">
+<p float="left">
+  <img src="screenshots/screenshot1.png" width="250" alt="Basic Speech to Text Field" />
+  <img src="screenshots/screenshot2.png" width="250" alt="Custom Speech to Text Field" />
+  <img src="screenshots/screenshot3.png" width="250" alt="Custom Speech to Text Field with multiple lines and listening" />
 </p>
 
 ## Requirements
