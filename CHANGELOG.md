@@ -1,3 +1,9 @@
+# Changelog for speech_to_text_field package
+
+## 0.1.2
+* Add style to the text field
+
+
 ## 0.1.1
 
 * Updated documentation with screenshots
