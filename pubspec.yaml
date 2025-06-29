@@ -1,6 +1,6 @@
 name: speech_to_text_field
 description: "A Flutter widget that provides a text field with built-in speech-to-text functionality"
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/eslamwael74/speech_to_text_field
 repository: https://github.com/eslamwael74/speech_to_text_field
 issue_tracker: https://github.com/eslamwael74/speech_to_text_field/issues
