@@ -63,6 +63,9 @@ class SpeechToTextField extends StatefulWidget {
   /// Position of the mic icon
   final IconPosition iconPosition;
 
+  /// Style for the text field
+  final TextStyle? style;
+
   const SpeechToTextField({
     super.key,
     required this.controller,
@@ -71,6 +74,7 @@ class SpeechToTextField extends StatefulWidget {
     this.onChanged,
     this.maxLines = 1,
     this.decoration,
+    this.style,
     this.enabled,
     this.textInputAction,
     this.focusNode,
@@ -184,6 +188,7 @@ class _SpeechToTextFieldState extends State<SpeechToTextField> {
       focusNode: widget.focusNode,
       keyboardType: widget.keyboardType,
       decoration: effectiveDecoration,
+      style: widget.style,
     );
   }
 

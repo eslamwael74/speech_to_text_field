@@ -88,6 +88,10 @@ class _ExamplePageState extends State<ExamplePage> {
                   borderRadius: BorderRadius.circular(12),
                 ),
               ),
+              style: const TextStyle(
+                fontSize: 16,
+                color: Colors.black87,
+              ),
             ),
             const SizedBox(height: 24),
 

@@ -184,6 +184,10 @@ SpeechToTextField(
       borderRadius: BorderRadius.circular(12),
     ),
   ),
+  style: TextStyle(
+    fontSize: 16,
+    color: Colors.black,
+  ),
 );
 ```
 
